@@ -17,7 +17,7 @@
 ```ts
     // plugin.config.ts
     export default <{ [key: string]: TPluginConfig }>{
-        vue3: {
+        'vue3-ssr': {
             enable:true,
             options:{
                 rootDir:'web', // 客户端页面组件根文件夹
