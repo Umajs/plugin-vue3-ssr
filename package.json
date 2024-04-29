@@ -1,6 +1,6 @@
 {
   "name": "@umajs/plugin-vue3-ssr",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "In umajs, Vue3.0 is used to develop the plugin of SPA and MPA, which supports server-side rendering and client-side rendering",
   "author": "dazjean <zunyi_zjj@163.com>",
   "keywords": [
